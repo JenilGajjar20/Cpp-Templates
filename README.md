@@ -1,7 +1,7 @@
 
 # Cpp Templates
 
-**Templates** are a feature of the C++ programming language that allows functions and classes to operate with [generic types](https://www.geeksforgeeks.org/generics-inc/#:~:text=Generic%20Programming%20enables%20the%20programmer,integer%2C%20string%20or%20a%20character.&text=Once%20written%20it%20can%20be%20used%20for%20multiple%20times%20an%20cases.). This allows a function or class to work on many different data types without being re-written for each one.
+**Templates** are a feature of the C++ programming language that allows functions and classes to operate with [generic types](https://www.geeksforgeeks.org/generics-in-c/). This allows a function or class to work on many different data types without being re-written for each one.
 
 C++ adds two more new keywords to support templates: 
 - template 
