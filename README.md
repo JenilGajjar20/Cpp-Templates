@@ -49,7 +49,7 @@ class className
         T var;
         T someOperation(T arg);
         // some code
-}
+};
 ```
 In the above declaration, **T** is the template argument which is a placeholder for the data type used.
 
@@ -58,7 +58,7 @@ Inside the class body, a member variable **var** and a member function **someOpe
 #### How to create a class template object?
 To create a class template object, we need to define the data type inside a *< >*.
 
-***className <dataType> classObject;***
+***className < dataType > classObject;***
 
 Example:
 ```
