@@ -8,7 +8,7 @@ This allows a function or class to
 work on many different data types without being 
 re-written for each one.
 
-C++ adds two more new keywords to aupport templates: 
+C++ adds two more new keywords to support templates: 
 - template 
 - typename
 
